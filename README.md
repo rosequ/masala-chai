@@ -1,2 +1,2 @@
-# masala-chai
-Masala Chai Group Submission to LegalLens 2024
+# Darrow-LegalLens-NER
+Darrow Legal Lens NER Shared Task
